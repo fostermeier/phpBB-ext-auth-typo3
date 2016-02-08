@@ -1,6 +1,6 @@
 # phpBB 3.1 Auth TYPO3
 
-phpBB 3.1 Authentication provider for TYPO3 (> ver 6.5.x)
+phpBB 3.1 Authentication provider for TYPO3 (> ver 6.2.x)
 
 phpBB 3.1 Authentication Provider for Shibboleth (with Shibboleth 2 SP)
 License: [BSD 2-Clause](LICENSE)
